@@ -1,0 +1,9 @@
+{
+  "name": "DSPSorterMk3Classic",
+  "version_number": "0.0.1",
+  "website_url": "https://github.com/appuns/DSPSorterMk3Classic",
+  "description": "Reinstates the deprecated SorterMk3 Cargo Stacking Upgrades. This don't affect achievements or milestones. 廃止されたアップグレード、ソーターMk3貨物スタックを復活させます。実績やマイルストーンには影響しません。",
+  "dependencies": [
+    "xiaoye97-BepInEx-5.4.17"
+  ]
+}
